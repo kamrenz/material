@@ -75,9 +75,6 @@ Then run the **gulp** tasks:
 ```bash
 # To build `angular-material.js/.css` and `Theme` files in the `/dist` directory
 gulp build
-
-# To build the Angular Material Docs and Demos in `/dist/docs` directory
-gulp docs
 ```
 
 For more details on how the build process works and additional commands (available for testing and
